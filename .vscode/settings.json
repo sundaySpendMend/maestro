@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#1C1C1C",
+        "titleBar.activeForeground": "#D4D4D4",
+        "activityBar.background": "#2C2C2C",
+        "sideBar.background": "#1B1B1B",
+        "sideBar.foreground": "#D4D4D4",
+        "editor.background": "#170a52",
+        "editor.foreground": "#D4D4D4",
+        "editor.lineHighlightBackground": "#282828",
+        "editorLineNumber.foreground": "#858585",
+        "editor.selectionBackground": "#555555",
+        "editorCursor.foreground": "#FFFFFF",
+        "terminal.background": "#1E1E1E"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "foreground": "#608B4E"
+                }
+            },
+            {
+                "scope": "string",
+                "settings": {
+                    "foreground": "#CE9178"
+                }
+            },
+            {
+                "scope": "variable",
+                "settings": {
+                    "foreground": "#9CDCFE"
+                }
+            },
+            {
+                "scope": "keyword",
+                "settings": {
+                    "foreground": "#C586C0"
+                }
+            }
+        ]
+    }
+}
